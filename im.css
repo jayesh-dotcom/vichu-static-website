@@ -1,0 +1,22 @@
+
+#vjj{
+    height:35em;
+    width:26em; 
+    opacity:0.4;
+}
+
+#vjj:hover {
+    opacity: 1;
+    transition-duration: 2000ms;
+}
+.vrr{
+    height: 35em;
+    opacity: 0.6;
+    
+
+}
+.vrr:hover{
+    opacity: 1;
+    transition-duration:2000ms;  
+    
+}
